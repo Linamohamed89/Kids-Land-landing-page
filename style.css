@@ -93,6 +93,7 @@ ul li a:hover{
     margin: auto;
     color: #fff;
     position: absolute;
+    margin-top: 42px;
 }
 .per{
     padding-left: 20px;
@@ -121,7 +122,7 @@ ul li a:hover{
     border: none;
     margin-bottom: 20px;
     margin-top: 10px;
-    margin-left: 20px;
+    margin-left: 120px;
     font-size: 18px;
     border-radius: 10px;
     cursor: pointer;
@@ -142,6 +143,8 @@ ul li a:hover{
 .subtitle{
     color: #ff7200;
     font-size: 18px
+    margin-left: 116px;
+
 }
 
 .form{
