@@ -85,10 +85,6 @@ ul li a:hover{
     outline: none;
 }
 
-.srch:focus{
-    outline: none;
-}
-  
     
 
 .content{
@@ -96,22 +92,26 @@ ul li a:hover{
     height: auto;
     margin: auto;
     color: #fff;
-    position: relative;
+    position: absolute;
 }
-.content .par{
+.per{
     padding-left: 20px;
     padding-bottom: 25px;
     font-family: Arial;
     letter-spacing: 1.2px;
-    line-height: 30px;
+    line-height: 30px;   
+     margin-left: 116px;
+    margin-bottom: 35px;
 }
 
-.content h1{
+.text-header{
     font-family: 'Times New Roman';
     font-size: 50px;
     padding-left: 20px;
     margin-top: 9%;
     letter-spacing: 2px;
+    margin-left: 116px;
+    margin-bottom: 21px;
 }
 
 .content .cn{
@@ -139,9 +139,9 @@ ul li a:hover{
     background-color: #fff;
 }
 
-.content span{
+.subtitle{
     color: #ff7200;
-    font-size: 65px
+    font-size: 18px
 }
 
 .form{
@@ -155,6 +155,7 @@ ul li a:hover{
     border-radius: 10px;
     padding: 25px;
     margin-top: 84px;
+    margin-left: 142px;
 }
 
 .form h2{
