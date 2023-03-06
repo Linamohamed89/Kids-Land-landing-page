@@ -63,27 +63,7 @@ ul li a{
 ul li a:hover{
     color: #752d2d;
 }
-.search{
-    width: 330px;
-    float: right;
-    margin-top: 27px;
- 
-}
-.search{
-    font-family: 'Times New Roman';
-    width: 300px;
-    height: 40px;
-    background: transparent;
-    border: 1px solid #ff7200;
-    margin-top: 13px;
-    color: #fff;
-    border-right: none;
-    font-size: 16px;
-    float: left;
-    padding: 10px;
-    border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
-}
+
 
 .btn{
     width: 100px;
