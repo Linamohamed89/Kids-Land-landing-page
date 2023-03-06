@@ -96,6 +96,7 @@ ul li a:hover{
     color: #fff;
     position: absolute;
     margin-top: 42px;
+    margin-left: 53px;
 }
 .per{
     padding-left: 20px;
@@ -108,13 +109,16 @@ ul li a:hover{
 }
 
 .text-header{
-    font-family: 'Times New Roman';
+    
     font-size: 50px;
     padding-left: 20px;
     margin-top: 5%;
     letter-spacing: 2px;
     margin-left: 116px;
     margin-bottom: 21px;
+    font-family: monospace;
+    color: aquamarine;
+    text-shadow: 0 0 19px black;
 }
 
 .content .cn{
@@ -143,9 +147,10 @@ ul li a:hover{
 }
 
 span {
-    font-size: 9px;
+    font-size: 13px;
     margin-left: 12px;
-    color: orange
+    color: coral;
+  
 }
 
 .form{
